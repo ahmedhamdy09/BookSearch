@@ -1,0 +1,15 @@
+.header-content{
+    min-height: 75vh;
+    background: linear-gradient(rgba(13, 10, 15, 0.3), rgba(33, 32, 34, 0.5)), url("../../images/thomas-kelley-hHL08lF7Ikc-unsplash.jpg") center/cover no-repeat;
+    flex-direction: column;
+}
+.header-title{
+    font-size: 4.2rem;
+    font-weight: bold;
+}
+.header-text{
+    margin-top: -1.8rem;
+    margin-bottom: 2.8rem;
+    opacity: 0.8;
+    max-width: 770px;
+}
